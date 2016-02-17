@@ -11,7 +11,7 @@ int main() {
 		if ((nums[i] % 3) == 0) {
 			cout << "Fizz" << endl;
 		}
-		else if ((nums[i] % 7) == 0) {
+		else if ((nums[i] % 5) == 0) {
 			cout << "buzz" << endl;
 		}
 		else {
